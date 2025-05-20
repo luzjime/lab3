@@ -1,0 +1,11 @@
+body { 
+      text-align: left; 
+      background-color: seashell; 
+      font-family: Arial, sans-serif;
+      margin: 10%;
+    }
+
+    li { 
+      list-style-type: none; 
+      padding: 10px; 
+    }
